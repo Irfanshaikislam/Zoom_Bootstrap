@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.Ai-first-platform{
+    background: radial-gradient(circle at center, #0b0e3f, #05062a);
+}
+.zoom-news{
+    background-color:#0b63f6;
+}
+.story1{
+    width:60px;
+}
